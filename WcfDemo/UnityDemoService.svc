@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Factory="WcfDemo.UnityServiceHostFactory" Service="WcfDemo.UnityDemoService" CodeBehind="UnityDemoService.svc.cs" %>
